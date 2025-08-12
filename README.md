@@ -147,7 +147,3 @@ The compiled files will be in the `dist/` directory.
 | Variable | Description | Required |
 |----------|-------------|----------|
 | `GEMINI_API_KEY` | Your Google AI Gemini API key | Yes |
-
-## About Caffy
-
-Caffy is more than just a chatbot - it's a coffee enthusiast trapped in an AI! Whether you're asking about quantum physics, cooking recipes, or life advice, Caffy will find a way to relate it back to the wonderful world of coffee. It's like having a barista-philosopher as your AI assistant!
